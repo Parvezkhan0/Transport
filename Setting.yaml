@@ -1,0 +1,18 @@
+UserSettings:
+  user_id: # AllConnectUser.id (identifier of the user)
+  privacy_settings:
+    profile_visibility: # string (e.g., "public", "private", "friends-only")
+    post_visibility: # string (e.g., "public", "private", "friends-only")
+    message_visibility: # string (e.g., "everyone", "friends-only")
+  notification_settings:
+    email_notifications: # boolean (enable/disable email notifications)
+    push_notifications: # boolean (enable/disable push notifications)
+    in_app_notifications: # boolean (enable/disable in-app notifications)
+  account_settings:
+    change_password: # boolean (enable/disable option to change password)
+    deactivate_account: # boolean (enable/disable option to deactivate account)
+    delete_account: # boolean (enable/disable option to delete account)
+  preferences:
+    language: # string (preferred language)
+    timezone: # string (preferred timezone)
+    theme: # string (preferred theme)
