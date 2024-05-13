@@ -1,4 +1,3 @@
-// TODO(Babel 8): Remove this file.
 
 var runtime = require("../helpers/regeneratorRuntime")();
 module.exports = runtime;
